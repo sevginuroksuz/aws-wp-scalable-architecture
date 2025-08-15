@@ -145,9 +145,8 @@ Reduce spend with: higher CDN/cache hit rates, right‑sized instances, low ASG 
 ```
 .
 ├── docs/
-│   └── aws_proje.drawio.pdf   # architecture diagram (provided by you)
-└── README.md                  # this document (design-only)
-```
+│   └── aws_proje.drawio.pdf   # architecture diagram 
+└── README.md                  
 
 ---
 
