@@ -4,8 +4,7 @@
 Edge: CloudFront + WAF + ALB · App: Auto Scaling EC2 (PHP 8.3) · Data: RDS (MariaDB) · Shared media: EFS · Cache: ElastiCache (Memcached).  
 Optimized for **high traffic (10k+ concurrent)**, **low latency**, **SEO**, and **daily backups**.
 
-> **Diagram:** place your architecture file at `docs/aws_proje.drawio.pdf` (this repo does not include IaC or deployment scripts).
-
+> **Diagram:** `docs/aws_proje.drawio.pdf`
 ---
 
 ## Table of Contents
