@@ -1,4 +1,4 @@
-# Ergin Warehouse Management App
+# aws-wp-scalable-architecture
 
 🌍 Please select a language / Lütfen bir dil seçin:
 
